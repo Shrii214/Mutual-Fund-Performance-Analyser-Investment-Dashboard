@@ -1,0 +1,6 @@
+category,fund_count,avg_return_1yr,avg_return_3yr,avg_return_5yr,avg_expense_ratio,avg_sharpe,avg_final_score,affordable_sip_count
+Debt,213,5.753,6.598,6.385,0.406,0.974,0.422,0
+Equity,258,2.95,29.619,12.07,1.084,1.45,0.49,0
+Hybrid,95,4.247,15.723,8.581,0.796,1.361,0.446,0
+Other,64,3.417,19.7,10.711,0.508,1.063,0.483,0
+Solution Oriented,17,2.594,21.388,9.747,1.114,1.404,0.44,0

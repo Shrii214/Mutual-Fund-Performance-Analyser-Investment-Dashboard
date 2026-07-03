@@ -1,0 +1,21 @@
+scheme_name,amc_name,category,return_1yr,return_3yr,return_5yr,avg_across_all_years,final_score,rank
+"Bank Of India Credit Risk Fund","Bank Of India Mutual Fund",Debt,130.8,12.8,-4.1,46.5,0.2446,rank
+"Quant Small Cap Fund","Quant Mutual Fund",Equity,5.4,71.4,23.2,33.33,0.8019,rank
+"Quant Infrastructure Fund","Quant Mutual Fund",Equity,5.6,61.5,21.1,29.4,0.7849,rank
+"Icici Pru Infrastructure Fund","Icici Prudential Mutual Fund",Equity,24.3,44,15.1,27.8,0.5366,rank
+"Quant Tax Plan- Direct Growth","Quant Mutual Fund",Equity,0.9,54.9,22.2,26,0.7459,rank
+"Kotak Infrastructure & Ecoc. Reform-Sp-Dirgrowth","Kotak Mahindra Mutual Fund",Equity,23.2,39.7,13.9,25.6,0.5904,rank
+"Sbi Contra Fund","Sbi Mutual Fund",Equity,15,43.4,15.6,24.67,0.6304,rank
+"Quant Mid Cap Fund","Quant Mutual Fund",Equity,8.8,45.1,19.8,24.57,0.676,rank
+"Quant Multi Asset Fund","Quant Mutual Fund",Hybrid,10.6,42.6,20.5,24.57,0.6917,rank
+"Nippon India Small Cap Fund","Nippon India Mutual Fund",Equity,8.7,47.6,16.8,24.37,0.6415,rank
+"Quant Flexi Cap Fund","Quant Mutual Fund",Equity,6.8,47.7,18.2,24.23,0.6866,rank
+"Hdfc Small Cap Fund","Hdfc Mutual Fund",Equity,12.5,43.5,13.5,23.17,0.595,rank
+"Nippon India Power & Infra Fund","Nippon India Mutual Fund",Equity,20.4,37.2,10.1,22.57,0.474,rank
+"Quant Active Fund","Quant Mutual Fund",Equity,1,45.5,19.9,22.13,0.6846,rank
+"Franklin Build India Fund","Franklin Templeton Mutual Fund",Equity,16,36.1,13.3,21.8,0.5143,rank
+"Motilal Oswal Midcap Fund","Motilal Oswal Mutual Fund",Equity,14.6,34,16.4,21.67,0.589,rank
+"Templeton India Value Fund","Franklin Templeton Mutual Fund",Equity,13.1,39.4,12.3,21.6,0.5671,rank
+"Sbi Tax Advantage Fund","Sbi Mutual Fund",Equity,1.9,41.1,21.8,21.6,0.5624,rank
+"Quant Absolute Fund","Quant Mutual Fund",Hybrid,7.3,38.2,19.1,21.53,0.6782,rank
+"Icici Pru Smallcap Fund","Icici Prudential Mutual Fund",Equity,7.7,41.8,14.9,21.47,0.6066,rank
