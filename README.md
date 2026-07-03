@@ -1,5 +1,10 @@
 # Mutual-Fund-Performance-Analyser-Investment-Dashboard
 End-to-End Mutual Fund Performance Analysis and Investment Dashboard using Python, SQL, Excel, and Power BI featuring data cleaning, EDA, fund ranking, SIP projections, and interactive business intelligence dashboards.
+
+<img width="1204" height="677" alt="Market Overview_Page1" src="https://github.com/user-attachments/assets/a432ba69-fa1a-4ef8-83d5-259cb1bd60f6" />
+<img width="1204" height="673" alt="Top 30 Analysis_Page2" src="https://github.com/user-attachments/assets/d8b627c0-f3b9-4deb-b89b-2835ccd87323" />
+<img width="1204" height="677" alt="SIP Calculator_Page3" src="https://github.com/user-attachments/assets/f763e507-c627-4ec9-afa7-3f24851957c9" />
+
 ## 🚀 Project Objectives
 
 - Analyze historical mutual fund performance.
